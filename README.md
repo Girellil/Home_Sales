@@ -13,11 +13,17 @@ Solution for the Challenge of Module 22 ( Big Data ) presented.
     * original_table, time to query original table format:
     ![Original](image_results/original_table.png)
 
+    <!-- Add an empty line here -->
+
     * cached_table, time to query from table in cache:
     ![Cached](image_results/cached_table.png)
 
+    <!-- Add an empty line here -->
+
     * parquet_partitions, Output of parquet partition of original DF:
-    ![Origninal](image_results/parquet_partitions.png)
+    ![Original](image_results/parquet_partitions.png)
+
+    <!-- Add an empty line here -->
 
     * parquet_table, time to query partitioned table (parquet) format:
-    ![Origninal](image_results/parquet_table.png)
+    ![Original](image_results/parquet_table.png)
