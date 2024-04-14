@@ -7,7 +7,7 @@ Solution for the Challenge of Module 22 ( Big Data ) presented.
 
 1) Home_Sales/README.md (this file).
 
-2) Home_Sales/Home_Sales.ipynb = File containing the python code ran for the Decision Tree Model.
+2) Home_Sales/Home_Sales.ipynb = File containing the python code ran for the Analysis.
 
 3) Home_Sales/image_results/ = Folder containing snapshots of some of the results for the main functions executed during the analysis.
     * original_table, time to query original table format:<br>
