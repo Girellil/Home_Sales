@@ -11,19 +11,17 @@ Solution for the Challenge of Module 22 ( Big Data ) presented.
 
 3) Home_Sales/image_results/ = Folder containing snapshots of some of the results for the main functions executed during the analysis.
     * original_table, time to query original table format:
-    ![Original](image_results/original_table.png)
-
-    <!-- Add an empty line here -->
+    ![Original](image_results/original_table.png)<br>
+    <br>
 
     * cached_table, time to query from table in cache:
-    ![Cached](image_results/cached_table.png)
-
-    <!-- Add an empty line here -->
+    ![Cached](image_results/cached_table.png)<br>
+    <br>
 
     * parquet_partitions, Output of parquet partition of original DF:
-    ![Original](image_results/parquet_partitions.png)
-
-    <!-- Add an empty line here -->
+    ![Original](image_results/parquet_partitions.png)<br>
+    <br>
 
     * parquet_table, time to query partitioned table (parquet) format:
-    ![Original](image_results/parquet_table.png)
+    ![Original](image_results/parquet_table.png)<br>
+    
